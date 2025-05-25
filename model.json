@@ -1,0 +1,24 @@
+{
+  "type": "LogisticRegressionWithPCA",
+  "weights_shape": [
+    1,
+    64
+  ],
+  "bias_shape": [
+    1
+  ],
+  "pca_components_shape": [
+    64,
+    768
+  ],
+  "pca_mean_shape": [
+    768
+  ],
+  "bin_file": "group1-shard1of1.bin",
+  "classes": [
+    0,
+    1
+  ],
+  "input_embedding_dim": 768,
+  "pca_n_components": 64
+}
